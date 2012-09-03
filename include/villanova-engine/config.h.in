@@ -1,0 +1,2 @@
+
+#cmakedefine HAVE_LIBAVCODEC_AVCODEC_H
